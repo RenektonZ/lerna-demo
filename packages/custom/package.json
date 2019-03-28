@@ -1,13 +1,13 @@
 {
-  "name": "@jupyterlab/custom",
+  "name": "@zhanghao/custom",
   "version": "0.0.1",
-  "description": "JupyterLab - Launcher Panel",
+  "description": "zhanghao - custom Panel",
   "homepage": "https://github.com/jupyterlab/jupyterlab",
   "bugs": {
     "url": "https://github.com/jupyterlab/jupyterlab/issues"
   },
   "license": "BSD-3-Clause",
-  "author": "Project Jupyter",
+  "author": "Project zhanghap",
   "files": [
     "lib/*.d.ts",
     "lib/*.js.map",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyterlab/jupyterlab.git"
+    "url": "https://github.com/RenektonZ/lerna-demo.git"
   },
   "scripts": {
     "build": "tsc -b",
@@ -49,5 +49,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "31f68f6d1717b58c344a5fb4f4baf3b123b7c75c"
+  "gitHead": "4d4bebc35fa2845758d76fd6347d3b5422296aeb"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "module1",
+  "name": "@zhanghao/module2",
   "version": "0.0.4",
   "description": "test",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zhangho",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "bfddf96cb38ca95b1aa0387d3c26adaae16fa784"
 }

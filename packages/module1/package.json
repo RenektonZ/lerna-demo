@@ -1,6 +1,6 @@
 {
   "name": "@zhanghao/module2",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "test",
   "main": "index.js",
   "scripts": {
